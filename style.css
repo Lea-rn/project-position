@@ -11,6 +11,10 @@ img {
     margin-left: auto;
     margin-right: auto;
     border-radius: 0px 0px 30px 30px;
+
+  
+    
+    
 }
 
 
@@ -26,10 +30,12 @@ img {
     /* ////// position fixed ::  */
     /* position: fixed;
     top: 0px;
-    left: 0px;
-    right: 0px; */
+    left: 15px;
+    right: 15px; */
+
+    
     position: sticky;
-    top: 10px;
+    top: 0px;
     
 }
 
